@@ -4,7 +4,7 @@
     "name": "Desktop PC Alpha",
     "category": "Desktop PC",
     "price": 1200,
-    "image": "/desctop1.jpg",
+    "image": "/public/desctop1.jpg",
     "shortDescription": "Powerful desktop PC for office and gaming.",
     "longDescription": "Desktop PC Alpha comes with Intel i7, 16GB RAM, 512GB SSD and NVIDIA GTX 1660 for high performance computing and gaming."
   },
@@ -13,7 +13,7 @@
     "name": "Desktop PC Beta",
     "category": "Desktop PC",
     "price": 950,
-    "image": "/desctop2.jpg",
+    "image": "/public/desctop2.jpg",
     "shortDescription": "Affordable desktop for home and office use.",
     "longDescription": "Desktop PC Beta features Intel i5, 8GB RAM, 256GB SSD, ideal for productivity and light gaming."
   },
@@ -22,7 +22,7 @@
     "name": "Desktop PC Gamma",
     "category": "Desktop PC",
     "price": 1500,
-    "image": "/desctop3.jpg",
+    "image": "/public/desctop3.jpg",
     "shortDescription": "High-end desktop for professionals.",
     "longDescription": "Desktop PC Gamma equipped with Intel i9, 32GB RAM, 1TB SSD, NVIDIA RTX 3070, perfect for demanding tasks and gaming."
   },
@@ -31,7 +31,7 @@
     "name": "Desktop PC Delta",
     "category": "Desktop PC",
     "price": 1100,
-    "image": "/desctop4.jpg",
+    "image": "/public/desctop4.jpg",
     "shortDescription": "Reliable desktop with balanced performance.",
     "longDescription": "Desktop PC Delta has AMD Ryzen 7, 16GB RAM, 512GB SSD, suitable for work and casual gaming."
   },
@@ -40,7 +40,7 @@
     "name": "Desktop PC Epsilon",
     "category": "Desktop PC",
     "price": 1300,
-    "image": "/desctop5.jpg",
+    "image": "/public/desctop5.jpg",
     "shortDescription": "Gaming-ready desktop with high graphics.",
     "longDescription": "Desktop PC Epsilon includes Intel i7, 16GB RAM, 1TB SSD, NVIDIA RTX 3060, great for gaming and multimedia."
   },
@@ -50,7 +50,7 @@
     "name": "Laptop Air X",
     "category": "Laptop",
     "price": 1000,
-    "image": "/laptop1.jpg",
+    "image": "/public/laptop1.jpg",
     "shortDescription": "Slim and lightweight laptop for daily use.",
     "longDescription": "Laptop Air X comes with Intel i5, 8GB RAM, 256GB SSD, perfect for students and office work."
   },
@@ -59,7 +59,7 @@
     "name": "Laptop Pro Y",
     "category": "Laptop",
     "price": 1500,
-    "image": "/laptop2.jpg",
+    "image": "/public/laptop2.jpg",
     "shortDescription": "High-performance laptop for professionals.",
     "longDescription": "Laptop Pro Y equipped with Intel i7, 16GB RAM, 512GB SSD, suitable for designers and developers."
   },
@@ -68,7 +68,7 @@
     "name": "Gaming Laptop Z",
     "category": "Laptop",
     "price": 1800,
-    "image": "/laptop3.jpg",
+    "image": "/public/laptop3.jpg",
     "shortDescription": "Gaming laptop with powerful GPU.",
     "longDescription": "Gaming Laptop Z includes NVIDIA RTX 3060, Intel i7, 16GB RAM, 1TB SSD, excellent for gaming and streaming."
   },
@@ -77,7 +77,7 @@
     "name": "Laptop Slim Q",
     "category": "Laptop",
     "price": 1200,
-    "image": "/laptop4.jpg",
+    "image": "/public/laptop4.jpg",
     "shortDescription": "Compact laptop for travel and work.",
     "longDescription": "Laptop Slim Q features AMD Ryzen 5, 8GB RAM, 512GB SSD, lightweight and durable for travel."
   },
@@ -86,7 +86,7 @@
     "name": "Laptop Ultra P",
     "category": "Laptop",
     "price": 1600,
-    "image": "/laptop5.jpg",
+    "image": "/public/laptop5.jpg",
     "shortDescription": "Powerful ultrabook with long battery life.",
     "longDescription": "Laptop Ultra P equipped with Intel i7, 16GB RAM, 1TB SSD, thin design and battery up to 12 hours."
   }
